@@ -1,1 +1,1 @@
-# hs110-api
+# hs110-java-api
